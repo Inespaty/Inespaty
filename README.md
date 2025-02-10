@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ines Patiente Micomyiza</h1>
 <h3 align="center">A passionate Software Engineering student from Rwanda</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ZwwWdY5d6vyZmrDm9.gif">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inespaty&label=Profile%20views&color=0e75b6&style=flat" alt="inespaty" /> </p>
 
