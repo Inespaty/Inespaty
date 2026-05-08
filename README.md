@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inespaty&label=Profile%20views&color=0e75b6&style=flat" alt="inespaty" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **minespatiente@gmail.com**
+- How to reach me **minespatiente@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50"/></td>
